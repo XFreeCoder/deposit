@@ -1,0 +1,1 @@
+const databaseName = 'deposit.db';
