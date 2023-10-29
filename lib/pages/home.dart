@@ -1,4 +1,3 @@
-import 'package:deposit/main.dart';
 import 'package:flutter/cupertino.dart';
 
 class HomePage extends StatefulWidget {
